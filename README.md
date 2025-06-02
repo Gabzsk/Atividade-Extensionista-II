@@ -7,4 +7,4 @@ O mesmo foi aplicado no município de Herval (RS) no Bairro Grafulha com um micr
 📷 **Link para Vídeo de Treimanento:**
 https://drive.google.com/drive/folders/1FEgmi-uyiDWDPFrDUc4UmhkPTjffGnWp?usp=drive_link
 
-_**Obs:** posto em um Drive pois o repositório não permite arquivos maiores que 25MB)._
+_**Obs:** posto em drive pois o repositório não permite arquivos maiores que 25MB._
