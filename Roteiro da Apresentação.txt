@@ -1,0 +1,91 @@
+SLIDE 1 - O que é o Trello?
+
+"Trello é uma espécie de ferramenta de colaboração (ferramenta que gerencia e compartilha um ou mais 
+projetos para vários colaboradores) criado para facilitar o gerenciamento de projetos.
+Com ele, voce pode organizar todo seu ambiente de trabalho e até mesmo compartilhá-lo com colaboradores."
+
+----------------------------------------------------------------------------------------------------------------
+
+SLIDE 2 - Para que ele serve?
+
+"O Trello utiliza o padrão "Kanban" para seu gerenciamento. Um método ágil criado pela Toyota na década
+de 1960 que permite o usuário acompanhar suas tarefas de forma visual, a fim de visualizar o fluxo de 
+trabalho, limitar o trabalho em progresso e gerenciar o fluxo de serviço para maximizar o valor entregue."
+
+----------------------------------------------------------------------------------------------------------------
+
+SLIDE 4 - Quadro Kanban Exemplo
+
+"Então no método Kanban, voce geralmente adiciona 3 ou mais listas: Fazer, Fazendo e Feito.
+Em cada lista, voce adiciona os papéis - chamados de cartões - que representam alguma tarefa ou projeto.
+Dependendo de onde essa tarefa se encontra (se é pra ser feito, se voce já está realizando ou já terminou),
+voce arrasta o cartão pra próxima lista. No Trello, é possível ir um pouco além e de certa forma "abrir"
+cada cartão, podendo detalhar as tarefas, colocar etiquetas, datas e outras coisas que vamos ver a seguir."
+
+----------------------------------------------------------------------------------------------------------------
+
+SLIDE 5 - Como utilizá-lo para gerenciamento de projetos em microempreendedorismo
+
+"Dito isso.. como podemos então aplicar o método Kanban com o Trello no microempreendedorismo?
+Bem, gerenciar seus projetos e estado atual de tarefas pode ser dificil, principalmente se voce 
+trabalha individualmente. 
+Utilizando o Trello como ferramenta de gerenciamento, fica nítido a importancia de um fluxo mais 
+organizado e rápido. Além da possibilidade de compartilhar as informações com seu colaborador ou
+funcionário individual".
+
+SLIDE 6 - Criando um Quadro de Projetos
+"Para gerenciar seus projetos e tarefas, vamos aprender a criar e editar  um quadro de projetos 
+com listas e cartões, seguido de suas propriedades."
+
+----------------------------------------------------------------------------------------------------------------
+
+PÓS SLIDES - AULA SOBRE USO
+1. Ensinando sobre as Listas:
+	O quadrado representado na tela se chama "Lista", é nela que voce cria novos cartões (onde voce vai nomear e especificar 
+	cada projeto ou tarefa).
+	*Pedir pra criar novas listas
+	Exemplo:
+	- A combinar
+	- Para fazer
+	- Fazendo
+	- Finalizado
+
+2. Ensinando sobre os cartões:
+	*Pedir para adicionar cartões fictícios ou até mesmo atuais nas listas.
+	**Ensinar a segurar o cartão para move-lo para o topo ou para baixo.
+	**Falar sobre a movimentação dos cartões de lista pra lista de acordo com o estado atual do projeto/tarefa.
+	
+3. Vendo e editando os cartões:
+	*Falar sobre a descrição - Adicionar detalhes, nomes, telefone, o que deve ser feito, imagens, links...
+	**Falar sobre a direita, onde se pode adicionar diversas outras informações.
+		*Falar sobre as Checklists, uma forma de adicionar pequenas tarefas dentro do projeto, como "Medir terreno, comprar material,
+		 falar com o cliente"
+		**Falar sobre as Etiquetas, uma forma de categorizar cada tipo de cartão, como "Na rua, Dentro de casa, Rural, Urgente, Pra
+		 outra hora..."
+		**Falar sobre as Datas, uma forma de adicionar data de inicio e fim da tarefa/projeto.
+		
+	***Falar sobre a pesquisa de cartões: 
+		*Logo ao lado do ícone de raio no canto superior direito, há o botão "Filtros", nele, voce pode pesquisar cartões baseado no
+		 nome, data, etiquetas e outros.
+	****Falar sobre Arquivar cartões:
+		Com o tempo, a lista de tarefas/projetos finalizados vai ficar muito grande. Para solucionar esse problema, uma vez que muitos
+		cartões podem deixar o
+		uso da ferramenta lento, voce pode Arquivar cartões clicando nos 3 pontinhos da lista e selecionar "Arquivar todos cartões 
+		nessa lista".
+		Além disso, é sempre possível revisitar cartões arquivados para rever detalhes ou até mesmo trabalhar novamente na
+		 tarefa/projeto indo aos 3 pontinhos
+		no canto superior direito e clicando em "Itens arquivados", podendo também exclui-los de forma definitiva.
+		
+4. Finalizando - 
+	"Por fim, ao utilizar o Trello no seu dia a dia como um microempreendedor, transforma a forma de planejar e executar suas atividades 
+	de forma rápida e organizada, além de simples e intuitiva. Integrar essas ferramentas de colaboração serve como uma boa estratégia pra 
+	aprimorar a gestão do seu negócio, e acaba investindo em um sistema que o ajuda a alcançar mais eficiencia, organização e enfim sucesso 
+	no seu empreendimento."
+	
+
+
+
+
+
+
+
